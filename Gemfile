@@ -15,6 +15,7 @@ gem 'leaflet-rails'
 group :development, :test do
   gem 'rspec-rails'
   gem 'cucumber-rails', require: false
+  gem 'jasmine'
 end
 
 group :test do
