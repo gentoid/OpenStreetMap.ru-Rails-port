@@ -16,7 +16,6 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'cucumber-rails', require: false
   gem 'jasmine'
-  gem 'jasmine-ajax'
 end
 
 group :test do
